@@ -1,0 +1,23 @@
+{
+  "name": "autorest",
+  "version": "1.0.0",
+  "description": "The **AutoRest** tool generates client libraries for accessing RESTful web services. Input to _AutoRest_ is a spec that describes the REST API using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) format.",
+  "main": "jest.default.config.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Randyblo7/autorest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Randyblo7/autorest/issues"
+  },
+  "homepage": "https://github.com/Randyblo7/autorest#readme"
+}
