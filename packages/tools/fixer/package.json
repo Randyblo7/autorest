@@ -51,7 +51,7 @@
   },
   "dependencies": {
     "chalk": "^4.1.0",
-    "glob": "~7.1.4",
+    "glob": "~9.0.0",
     "lodash": "~4.17.20",
     "source-map-support": "^0.5.19",
     "ts-jest": "^27.0.3",
