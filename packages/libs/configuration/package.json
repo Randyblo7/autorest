@@ -47,13 +47,13 @@
     "typescript": "~4.6.3"
   },
   "dependencies": {
-    "@autorest/common": "~1.5.2",
-    "@azure-tools/datastore": "~4.6.1",
+    "@autorest/common": "~1.6.0",
+    "@azure-tools/datastore": "~4.8.0",
     "@azure-tools/extension": "~3.5.0",
     "@azure-tools/uri": "~3.1.1",
     "@azure-tools/async-io": "~3.0.0",
     "@azure-tools/json": "~1.2.2",
-    "@azure-tools/yaml": "~1.1.0",
+    "@azure-tools/yaml": "~1.2.0",
     "commonmark": "^0.27.0",
     "lodash": "~4.17.20",
     "untildify": "^4.0.0"
